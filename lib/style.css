@@ -1,0 +1,36 @@
+/* Add your styles here */
+h1 {
+  color: gold;
+}
+h2 {
+  color: #820000;
+}
+p {
+  text-align: justify;
+}
+
+.historia {
+  font-weight: bold;
+}
+
+.trofeos {
+  font-weight: bold;
+}
+
+#encabezado {
+  background-color: #820000;
+}
+
+a[href="https://soydelvinotintoyoro.blogspot.com/"]
+{
+  color: #820000;
+  font-size: large;
+  font-style: italic;
+}
+
+a[href="https://clubdeportestolima.com.co/"]
+{
+  color: #820000;
+  font-size: large;
+  font-style: italic;
+}
